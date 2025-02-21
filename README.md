@@ -9,9 +9,13 @@ This repository contains codes and data used for [the human embryonic limb cell 
 * [human Visium spatial transcriptomics](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-10367)
 * [mouse limb scRNA-seq](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-10514)
 
+## Other resources related to downstream analyses
+* [human limb cell type-specific regulons](./pyscenic)
+
 ## [VisiumStitcher](https://github.com/Teichlab/visium_stitcher)
 * [notebook for image stitching with hard-coded positioning](https://nbviewer.jupyter.org/github/Teichlab/limbcellatlas/blob/main/Visium_image_stitching.ipynb)
 * [notebook for RNA stitching following image stitching](https://nbviewer.jupyter.org/github/Teichlab/limbcellatlas/blob/main/Visium_RNA_stitching.ipynb)
+
 
 acknowledgments - We would like to thank Valentina Lorenzi for her feedback and contribution 
 

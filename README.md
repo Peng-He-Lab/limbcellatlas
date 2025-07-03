@@ -10,6 +10,7 @@ This repository contains codes and data used for [the human embryonic limb cell 
 * [mouse limb scRNA-seq](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-10514)
 
 ## Other resources related to downstream analyses
+* [original pyscenic notebook](running_pyscenic_and_visualization.ipynb)
 * [human limb cell type-specific regulons](./pyscenic)
 
 ## [VisiumStitcher](https://github.com/Teichlab/visium_stitcher)

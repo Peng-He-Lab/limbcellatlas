@@ -8,7 +8,7 @@ This repository contains codes and data used for [the human embryonic limb cell 
 | **Interactive browsers** | Cell-level exploration of gene expression and metadata | [CZI CellxGene](https://cellxgene.cziscience.com/collections/4fefa187-5d14-4f1e-915b-c892ed320aab) · [Working data portal](https://limb-dev.cellgeni.sanger.ac.uk/) · [Developmental Cell Atlas](https://developmental.cellatlas.io/embryonic-limb) |
 | **Raw scRNA-seq** | FASTQ files and raw count matrices | [BioStudies: human limb scRNA-seq](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-8813) |
 | **Raw spatial transcriptomics (Visium)** | FASTQ files and spatial gene expression matrices | [BioStudies: human limb Visium](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-10367) |
-| **Imaging data** | FISH, IF, RNAscope of human embryonic limbs | [BioImage Archive](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2364) , [3D Videos](https://ucsfonline-my.sharepoint.com/:f:/g/personal/peng_he_ucsf_edu/IgD62ktnBeGsRLezodtZ_OjrAV3wfwZdPA0QNnkKbbLRbyc?e=h9liVU)|
+| **Imaging data** | FISH, IF, RNAscope of human embryonic limbs | [BioImage Archive](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2364) , [3D Videos](https://ucsfonline-my.sharepoint.com/:f:/g/personal/peng_he_ucsf_edu/IgAmHCFNBCJHRafbNho3hbx5AdH5Ql4Uo-UgwFazImi-ejk?e=Pc2zpX)|
 | **Marker genes** | Marker genes for annotated cell types and cell states | [MarkerGenes.md](./MarkerGenes.md) |
 | **Gene regulatory networks** | Cell type–specific regulons inferred using pySCENIC | [pyscenic results](./pyscenic) |
 | **Downstream analysis notebooks** | pySCENIC workflow and visualization | [running_pyscenic_and_visualization.ipynb](running_pyscenic_and_visualization.ipynb) |
